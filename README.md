@@ -60,7 +60,7 @@ public class Main extends JavaPlugin{
 ### PlayerData
 - 유저 데이터를 로드합니다.
 - 유저 데이 담고있습니다.
-## Example
+#### Example
 ```java
 PlayerData data = PlayerData.get("playerName");
 ```
