@@ -65,4 +65,8 @@ public class Main extends JavaPlugin{
 PlayerData data = PlayerData.get("playerName");
 ```
 
-
+# 필요 라이브러리
+- MiniGameUninhabited
+- MiniGameItems
+- MiniGameEffects
+- Bukkit 1.5.2
