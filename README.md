@@ -57,3 +57,12 @@ public class Main extends JavaPlugin{
 
 }
 ```
+### PlayerData
+- 유저 기록을 로드합니다.
+- 유저 기록을 담고있습니다.
+## Example
+```java
+PlayerData data = PlayerData.get("playerName");
+```
+
+
