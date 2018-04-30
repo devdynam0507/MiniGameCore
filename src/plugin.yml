@@ -1,0 +1,15 @@
+name: MiniGameCore
+version: 1.0
+main: com.gamecore.MiniGame
+load: POSTWORLD
+depend: [MultiWorld]
+
+commands:
+  스폰설정:
+  대기실설정:
+  미니게임:
+  플러그인:
+  서버:
+  스폰:
+  test:
+  test2:
